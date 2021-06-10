@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15d78c70-4ca7-4fea-afd3-ce09d3d08954" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\NM\apache-maven-3.6.1\repo" />
+        <option name="mavenHome" value="D:\NM\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\NM\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1snIzcc8CelpKdE34FP2V53JQfO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="TestNG.D:/NM/java29_maven_base/testng.xml">
+    <configuration name="WriteBackDataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java29_homework.day10.WriteBackDataTest" />
+      <module name="java29_maven_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java29_homework.day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/NM/java29_maven_base/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java29_maven_base" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/NM/java29_maven_base/testng.xml" />
+        <item itemvalue="Application.WriteBackDataTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15d78c70-4ca7-4fea-afd3-ce09d3d08954" name="Default Changelist" comment="" />
+      <created>1621502193488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621502193488</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1622107418483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="536" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1622107418483" />
+    <state x="511" y="171" key="FileChooserDialogImpl" timestamp="1623140639514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="171" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1623140639514" />
+    <state width="1202" height="247" key="GridCell.Tab.0.bottom" timestamp="1622109182108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1202" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1622109182108" />
+    <state width="1202" height="247" key="GridCell.Tab.0.center" timestamp="1622109182108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1202" height="247" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1622109182108" />
+    <state width="1202" height="247" key="GridCell.Tab.0.left" timestamp="1622109182108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1202" height="247" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1622109182108" />
+    <state width="1202" height="247" key="GridCell.Tab.0.right" timestamp="1622109182108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1202" height="247" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1622109182108" />
+    <state x="370" y="120" key="NewModule_or_Project.wizard" timestamp="1621503441058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="370" y="120" key="NewModule_or_Project.wizard/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1621503441058" />
+    <state x="232" y="61" key="SettingsEditor" timestamp="1623140681921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="232" y="61" key="SettingsEditor/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1623140681921" />
+    <state x="393" y="145" key="search.everywhere.popup" timestamp="1622106680945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="145" key="search.everywhere.popup/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1622106680945" />
+  </component>
+</project>
